@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a simple React app which keeps track of all available movies.
+It uses a fakeMovieService api to generate movies
 ## Available Scripts
 
 In the project directory, you can run:
